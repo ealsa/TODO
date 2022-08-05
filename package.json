@@ -2,7 +2,7 @@
   "name": "react-boilerplate",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ealsa.github.io",
+  "homepage": "https://ealsa.github.io/TODO",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
